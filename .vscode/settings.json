@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "HookyQR.beautify",
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
