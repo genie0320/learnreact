@@ -1,0 +1,22 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "my first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "What is test command?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genie0320/learnreact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Genie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genie0320/learnreact/issues"
+  },
+  "homepage": "https://github.com/genie0320/learnreact#readme"
+}
